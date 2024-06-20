@@ -1,4 +1,4 @@
-# [Vercel Deployed Link](https://music-academy-next-fu3wnnta0-siddhartha-bharalis-projects.vercel.app/)
+# [Vercel Deployed Link](https://music-academy-next-js-three.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
