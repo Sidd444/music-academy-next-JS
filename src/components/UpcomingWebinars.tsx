@@ -1,6 +1,6 @@
 
 'use client'
-import Link from "next/link"
+import Link from "../../node_modules/next/link";
 import { HoverEffect } from "./ui/card-hover-effect";
 import { Button } from "./ui/moving-border";
 
